@@ -6,8 +6,8 @@
  * CODIGA
 ![Quality](https://api.codiga.io/project/33335/status/svg)
 
-* Cppcheck
+* CPPCHECK ANALIYSIS
 ![Quality]([![Cppcheck Analysis](https://github.com/Kanish1403200/M3_Wiper_Controller/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Kanish1403200/M3_Wiper_Controller/actions/workflows/cppcheck.yml))
 
-* Bluid on Linux
+* BULID ON LINUX
 ![Quality]([![Cppcheck Analysis](https://github.com/Kanish1403200/M3_Wiper_Controller/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Kanish1403200/M3_Wiper_Controller/actions/workflows/cppcheck.yml))
